@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "3fd8bb14-03c9-41e1-a1ed-c6b6f7a07285": {
+      "label": "AV File 1",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Test Ecent",
+  "created_at": "2024-10-14T20:35:00.902Z",
+  "created_by": "lwjameson",
+  "updated_at": "2024-10-14T20:35:00.902Z",
+  "updated_by": "lwjameson"
+}
